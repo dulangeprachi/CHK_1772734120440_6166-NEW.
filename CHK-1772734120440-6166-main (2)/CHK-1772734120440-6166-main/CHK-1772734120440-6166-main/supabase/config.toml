@@ -1,0 +1,4 @@
+project_id = "nhotjumxtzktsqteherq"
+
+[functions.medicine-lookup]
+verify_jwt = false
